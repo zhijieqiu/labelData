@@ -1,0 +1,199 @@
+Conference Room Calendar Permissions and Double Booking Issues	0
+Plan Changed and Bill has not	0
+Unable to activate a workflow.	0
+can not purchase subscription	0
+Change the default language on Sharepoint / Onedrive	1
+An Employee left the company and deleted her entire mailbox.	0
+Server 2012 Essentials Role Cannot Communicate With SharePoint Online	1
+only showing 35Gb	0
+Mail Migration w/ Licensing	0
+Can we move to an invoice or direct payment model instead of monthly credit card?	0
+Lync profile display issues	1
+block attached file with zip,rar type	0
+Unable to delete document libraries using Library Settings ] Delete this document library	1
+Cloud account / OAW	1
+Receive a notice from microsoft	0
+Remove old credit card	1
+Will enabling Skype for Business Online Preview break any current conferencing features already enabled?	1
+Uninstall one instance of Office 365	1
+outlook can no longer connect to any server	1
+User has full-control on a document library, yet getting Access Denied error	1
+Unable to access exchange hosted email on Outlook client	1
+Deleted Site Collections disappearing from Admin Recycle Bin and other Recycle Bin inconsistencies.	1
+External email not coming in	1
+Problem trying to set up the account amartin@wps.es in Outlook 2013	1
+Can not ""off load"" mailbox migration from o365 to onsite	1
+I add my account profile to Outlook but it does not work	1
+I am trying to track an email being sent from a mailbox to outside my organization	1
+Creating server-side rules to flag a message or create task based on message	0
+We have two accounts we'd like to merge	0
+email not found in OWA or Outlook 2010	1
+Outgoing mail is rejected by smtproutes.com	1
+Noticing some contacts can't reach us via our .com or .coop accounts	1
+Sign in to activate Office for Mac on your computer. Failes	1
+Powershell shows user Nasim@lionrampantimports incorrectly	0
+Delisted from blocking list 9 hours ago but MS servers still blocking mail	1
+We are missing emails from the last 24 hours	1
+Assistance with adding a new subscription	1
+trial has ended, now need to purchase a subscription	1
+User cannot get into SharePoint	1
+cannot copy a Subsite into the same parent Site	1
+Can't seem to get things synced up and working.	0
+unable to reset user password	0
+I would like to take advantage of Skype for Business	0
+404 when trying to access our instance	0
+Remove Company Hosted Exchange Email Service	1
+Mail folder Purged on IMAP Import	1
+Unable to access Skype for Business management portal	1
+Unable to Sign in to Office Account within Office Applications	1
+Shared Mailbox Disappeared	1
+I can't figure out how to add more users to Skype for Business	1
+Troubles uploading files speed / stuck	0
+Cannot activate partner feature	0
+One new user and one old user do not have access to sharepoint	1
+Can't send mail - receiving multiple NDR's	1
+Unable to see Free/Busy info between on-prem and hosted mailboxes	1
+An error occurred while working on your domain. Please go back to the Domains page to restart the process.	1
+Warning of subscription termination	1
+want to have two mailboxes for a user	1
+User Cannot Log into Skype for Business running on Virtual machine	1
+Is it possible for me to cancel the subscription before the one year is up?	1
+OneNote printer for Mac	1
+Error when opening new documents	0
+Active Directory not syncing with Office365	1
+Account reactivation	1
+How To	0
+Outlook Clients not connecting to O365	1
+Sorry- we are having some temporary server issues	0
+can't see Shared with everyone folder	0
+Have had one drive working for over a year cant log in today	1
+Visual Studio F5 Debug-mode Permission Issue - Cannot Save Updated File Without Complete Reinstall of App	1
+Problem completing the Hybrid Configuration wizard	0
+OneDrive for Business has a red x on it and all items within; doesn't appear to be syncing	1
+How can I verify the version and status of Office 365 tenant	1
+Need to locate information for users outside our domain to set up a Lync Federation	1
+Error received when starting migration batch	0
+I installed Microsoft Word on my IPhone, when I try to sign in from within Word to my Office 365 account, I receive the message ""can not activate""	1
+unable to send to any user	1
+credit not issued for full amouint	1
+we need demo license to show CRM integration	1
+We are going to purchase on February 2nd 2015	1
+Directory Sync Error	1
+Some users unable to login to Office 365	1
+Cannot delete email from shared mailbox	1
+Backup of Data	1
+Security	0
+Replies to CRM Emails not received for one user	1
+We are unable to access the partner tab	1
+Recieving Meeting Invites despite no longer being a Delegate	1
+need a sort code	0
+assistance with permissions and access to shared mailbox	1
+Best practice to migrate users manually	1
+How to schedule Backup on Onedrive with help of Cobain backup	1
+I can't login to the Power BI Admin	1
+How can I switch my Office 365 Business Premium Account from Monthly to Annual	1
+Shared calendar not syncing (frequently enough)	1
+Calendar completely broken	1
+Latency Issues	0
+accounts	0
+mail enable distribution list not working properly	1
+Constant emails to update expired credit card info	1
+Duplicate accounts - being double billed	1
+Solution for accepting files from external users	1
+OWA not working Correctly	1
+Lync does not show in my apps and I can not connect from my pc	1
+Trying to view all activities and getting SQL error	1
+User having issues with presenting	1
+Keeps prompting password	0
+Email is not archiving	1
+External Incoming email not being received by users	1
+EOP to Plan1	0
+Disabled Account not cutting off access to e-mail	1
+Doesn't recognize my account when I click on add it	1
+Synchronized Identity Information	1
+Installation fails at 69%. Error Code: 30174-4	0
+Need to get Education subscriptions	0
+Can't remove the Online Archive	0
+Some user's can't access/expand their Archive mailbox	1
+Employee can not access navitend365.sharepoint.com	1
+Cannot Delete Certain Email Attachments	1
+Starting in April, it appears SOME emails sent from accounting@workwell.com are not being delivered	1
+Unable to create new Site Collections.	1
+Can not access owa	1
+Unable to open Word documents from SHarepoint site or Onedrive	1
+Awaiting Approval of non profit status	0
+Hello we have a case with a client need to extend trial sub	0
+OneDrive space	0
+Non delivary of mail	0
+Synchronization	0
+Unable to access site from the sites tab.	1
+Incorrect message date is displayed in web version of outlook	1
+Outlook Contact	0
+A pop up appears that indicates Lync has stopped working.	1
+Connecting Microsoft lync to Reliance Bridge (US) Call	1
+Unable to access sharepoint sites	1
+Directory Sync Issue	1
+Trying to locate a payment	0
+Syncing contacts to iPhone	0
+Password protected file will not open	0
+Cannot install office 365 and Visio Professional 2013	1
+Please cancel advisory Subscription licenses - Urgent	1
+Cannot change primary SMTP	0
+How much do i need to pay?	0
+Still in Migration	0
+Cannot Move Links	0
+Need assistance in enabling mailbox auditing.	0
+Give a user Sharepoint Admin permissions only	1
+I need to migrate our existing Exchange 2010 system to the Cloud	0
+my emails are sending out twice	0
+No reply to emails	0
+CRM not accesible	1
+Need two extra cal's	0
+Unable to send email - blocked as spam	1
+User is duplicated	1
+Trouble with Skype for Business meeting	1
+Managing Devices using Outlook App for iPhone or Android	1
+Not pay for non-prod instance until both instances are on same version	0
+Has been ""setting up"" or on provisioning for the past 24 hours.	0
+Change the licenses	0
+Cant Sync One Drive	1
+Issue connecting Outlook to Office 365	1
+unable to sign in the lync	1
+Change to Business Essentials Plan	1
+Question about rules for phishing messages	0
+Sorry, we can't perform this action. Incompatible Office products installed on your machine	0
+Conflicting Permissions	0
+Need to Add Chat Rooms or Persistent Chat Rooms	1
+Unable to load the plugin type: Microsoft.Crm.Common.ObjectModel.AddressComputationPlugin	0
+Suggested contact and auto complete not avilable.	1
+Card Declined	0
+Excel Crashes frequently	1
+Unknown bill	0
+Unable to write back to groups on local AD using AzureAD Sync	1
+Need to rename/use a different primary domain name for the SharePoint sites	1
+i am trying to set up outlook but not able to do it! Please help	1
+OWA Not Working	1
+Sign in takes you directly to a  404 Page	0
+We are a school and need school pricing	0
+Outlook is slow in loding profile and finally disconnect	1
+Sharepoint Online does not display accurate search results	1
+i cant download emails	1
+emails regarding my bill	0
+Continued sync problems	1
+Distribution Group	0
+Unable to send e-mail from any platform to any recipient	1
+Error message after activating sharepoint server publishing	1
+can't forfill the credential request	0
+Service Not Running	1
+Unable to invite external users to team sites	1
+can't access owa	1
+Is there an outstanding payment	0
+wrong details on account	0
+Outlook at least once a day it disconnect and require a restart for Outlook to connect again	1
+Delivery to email accounts sporadically failing	1
+Office 365 ProPlus going to expire	1
+I have 2 users who can't access the site	0
+O365 Import service	0
+Lync for Mac disconnect frequently or crash	1
+applications freeze	0
+Please advise how to view in HTML as suggested in the current fault with Sharepoint Incident SP22286	1
